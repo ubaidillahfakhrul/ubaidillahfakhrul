@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is fu
 
-**ubaidillahfakhrul/ubaidillahfakhrul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ubaidillahfakhrul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!--
 **ubaidillahfakhrul/ubaidillahfakhrul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
