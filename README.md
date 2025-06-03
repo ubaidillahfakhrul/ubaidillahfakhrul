@@ -1,7 +1,7 @@
 # Hi there 👋, my name is Fakhrul Ubaidillah
 
 🚀 **About Me**  
-- 🔭 I’m currently working on **Data Analysis & Web Development**  
+- 🔭 I’m currently working on **RF, Data Analysis & Web Development**  
 - 🌱 I’m learning **Laravel, Python, and Power BI**  
 - 💬 Ask me about **SQL, Git, and Tableau**  
 - 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/yourname)**  
